@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Estilo do body */
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  /* Cabeçalho / Logo */
+  .cabecalho {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 90px;
+    text-align: center;
+    position: static;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: rgb(186, 223, 255);
+    background-image: url(soleplantacao.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #354620;
+  }
+  
+  /* Ajusta o tamanho da fonte do cabeçalho */
+  .cabecalho h1 {
+    font-size: 40px;
+  }  
+
+  .objetivo-imagem{
+    width: 25%;
+}
+.objetivo{
+    background-image: linear-gradient(#cadab8,#93ac74);
+    color: rgb(43, 31, 25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 120px 0;
+}
+.objetivo-div-conteudo{
+    width: 35%;
+}
+.objetivo-titulo{
+    padding: 24px 0;
+
+}
