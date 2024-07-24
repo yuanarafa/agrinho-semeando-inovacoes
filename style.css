@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -34,7 +35,7 @@ body {
     width: 25%;
 }
 .objetivo{
-    color: rgb(43, 31, 25);
+    color: #2b1f19;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,7 +46,20 @@ body {
 }
 .objetivo-titulo{
     padding: 24px 0;
+}
 
+.projeto{
+  color: #2b1f19;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  padding: 20px 0;
+}
+.projeto-div-conteudo{
+  width: 35%;
+}
+.projeto-titulo{
+  padding: 24px 0;
 }
 * {
     box-sizing: border-box;
